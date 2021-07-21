@@ -64,7 +64,7 @@ from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
 HALLO SEMUANYA 👋🏻 !,
-NANA HADIR UNTUK MEMBANTU KAMU NIHH 🤗!.
+ANTO HADIR UNTUK MEMBANTU KAMU NIHH 🤗!.
 
 RAWAT GROUP KAMU, BIAR KAMU NYA ENGGAK CAPEK!!
 JANGAN SIA-SIAIN AKU YA:) !
@@ -76,7 +76,7 @@ JANGAN SIA-SIAIN AKU YA:) !
 
 buttons = [
     [
-        InlineKeyboardButton(text="👮OWNER👮", url="https://t.me/tehmanisangett"),
+        InlineKeyboardButton(text="👮OWNER👮", url="https://t.me/Farelse"),
         InlineKeyboardButton(text="💬GROUP 1💬", url="https://t.me/Samalete")],
     [
         InlineKeyboardButton(text="❓ BANTUAN ❓", callback_data="help_back"),
@@ -84,15 +84,15 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ TAMBAHKAN ➕", url="t.me/nanamanagerbot?startgroup=true"
+            text="➕ TAMBAHKAN ➕", url="t.me/Antomenegemenbot?startgroup=true"
         )
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Komen Utama :* [🤖](https://telegra.ph/file/99e8d3ae5b35846d2d9c3.jpg)
-HEY SEMUANYA! NANA PUNYA BANYAK MODULE NIH, COBA LIAT KEBAWAH ADA PANDUANNYA KAN? NAH COBAIN AJA YA 😜.
+*Komen Utama :* [🤖](https://telegra.ph/file/a0ee099a52cc0704d1d1f.jpg)
+HEY SEMUANYA! ANTO PUNYA BANYAK MODULE NIH, COBA LIAT KEBAWAH ADA PANDUANNYA KAN? NAH COBAIN AJA YA 😜.
 ✪ /start: Memulai menggunakan saya.
 ✪ /help: Klik ini akan memunculkan modul saya!
 ✪ /settings: 
@@ -106,7 +106,7 @@ HEY SEMUANYA! NANA PUNYA BANYAK MODULE NIH, COBA LIAT KEBAWAH ADA PANDUANNYA KAN
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Whatever.](t.me/tehmanisangett),[SEGAPUNG](t.me/Akusukakamubanget),"""
+Support them  [Whatever.](t.me/Farelse),[SEGAPUNG](t.me/Akusukakamubanget),"""
 
 IMPORTED = {}
 MIGRATEABLE = []

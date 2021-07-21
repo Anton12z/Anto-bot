@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/DaisyX
-RUN git clone -b ElsaBot https://github.com/MrRih/NanaBot /root/DaisyX
+RUN git clone -b ElsaBot https://github.com/Anton12z/Anto-bot /root/DaisyX
 WORKDIR /root/DaisyX
 
 #Copy config file to /root/DaisyX/DaisyX

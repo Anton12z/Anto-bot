@@ -1,5 +1,5 @@
 {
-      "name": "Elsa",
+      "name": "Anto",
       "description": "An Anime themed Telegram group management bot.",
       "keywords": [
          "telegram",
@@ -7,7 +7,7 @@
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/kenkannih/ElsaBot",
+   "repository": "https://github.com/Anton12z/Anto-bot",
    "addons": [
       {
          "options": {
@@ -178,6 +178,6 @@
       "manager",
       "daisy"
    ],
-   "name": "ElsaBot",
-   "repository": "https://github.com/kenkannih/ElsaBot"
+   "name": "Anto",
+   "repository": "https://github.com/Anton12z/Anto-bot"
 }

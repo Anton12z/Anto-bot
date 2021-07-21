@@ -1,17 +1,17 @@
 
 <p align="center">
-  <img src="https://telegra.ph/file/2284e5d64575d9c83bd2b.jpg">
+  <img src="https://telegra.ph/file/a0ee099a52cc0704d1d1f.jpg">
 </p>
 
-### NANA BOT
+### ANTO BOT
 adalah Repo bot telegram untuk membuat bot pengelola managemen biar admin kagak capek
 
 <p align="center">
-  <a href="https://t.me/tehmanisangett"><img src="https://img.shields.io/badge/OWNER-blue?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://t.me/Farelse"><img src="https://img.shields.io/badge/OWNER-blue?style=for-the-badge&logo=telegram"/></a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/nanamanagerbot"><img src="https://img.shields.io/badge/NANA BOT-yellow?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://t.me/Antomenegemenbot"><img src="https://img.shields.io/badge/ANTO BOT-yellow?style=for-the-badge&logo=telegram"/></a>
 </p>
 
 <details>
